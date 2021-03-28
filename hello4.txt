@@ -10,3 +10,6 @@ pc 8:28pm
 admin mail 8:34pm
 pc 8:39pm -- New break
 admin main 8:42pm
+-- Sunday --
+pc 2:39pm
+
